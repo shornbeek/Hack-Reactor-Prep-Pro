@@ -1,10 +1,3 @@
- <head>
-   <title id = horn>001_convertingArrayToObject1</title>
- </head>
-    
- <body>
-	<script>
-	
 function getAllKeys(obj) {
   // your code here
   var objectKeys = [];
@@ -13,5 +6,3 @@ function getAllKeys(obj) {
   }
   return objectKeys;
 }
-    </script>
- </body>
