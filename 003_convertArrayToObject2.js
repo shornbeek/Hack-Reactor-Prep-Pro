@@ -1,3 +1,4 @@
+//referance Manish-Girl Github	
 function fromListToObject(array) {
   // your code here
   var result = {};
