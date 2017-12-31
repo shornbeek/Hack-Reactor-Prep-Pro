@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
- <head>
-   <title id = horn>Git hub Start</title>
- </head>
-    
- <body>
-	<script>
+
 	
 function transformFirstAndLast(array) {
  const first = array[0];
@@ -16,6 +9,3 @@ function transformFirstAndLast(array) {
 
 transformFirstAndLast(['Girl', 'Boy', 'Mom', 'Dad']);
 	
-    </script>
- </body>
-</html>
